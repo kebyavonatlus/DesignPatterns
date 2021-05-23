@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrincipl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilderInheritanceRecursiveGenerics", "FluentBuilderInheritanceRecursiveGenerics\FluentBuilderInheritanceRecursiveGenerics.csproj", "{E6235735-3831-4268-BC45-BFE2ED5AD279}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6235735-3831-4268-BC45-BFE2ED5AD279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6235735-3831-4268-BC45-BFE2ED5AD279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6235735-3831-4268-BC45-BFE2ED5AD279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6235735-3831-4268-BC45-BFE2ED5AD279}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
