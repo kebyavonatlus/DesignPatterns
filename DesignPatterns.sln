@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrincip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{8410465C-B6E2-4BA2-BC63-338340F1DE72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8410465C-B6E2-4BA2-BC63-338340F1DE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8410465C-B6E2-4BA2-BC63-338340F1DE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8410465C-B6E2-4BA2-BC63-338340F1DE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
