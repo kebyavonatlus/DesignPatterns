@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{A5464EE0-B4F3-4D3E-903C-D0A197306515}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{A5464EE0-B4F3-4D3E-903C-D0A197306515}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open-ClosedPrinciple", "Open-ClosedPrinciple\Open-ClosedPrinciple.csproj", "{9EAF3836-EB5C-49BC-AD5B-94958F385779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Open-ClosedPrinciple", "Open-ClosedPrinciple\Open-ClosedPrinciple.csproj", "{9EAF3836-EB5C-49BC-AD5B-94958F385779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{8C81CCD8-A1DB-4974-8627-7958F4DFB550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{8C81CCD8-A1DB-4974-8627-7958F4DFB550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{80AF7A2C-D548-4D84-AE60-21D1BB2BF7DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{80AF7A2C-D548-4D84-AE60-21D1BB2BF7DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{8410465C-B6E2-4BA2-BC63-338340F1DE72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{8410465C-B6E2-4BA2-BC63-338340F1DE72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{A5355DD5-767B-4D53-A8BE-B488CA2CAD1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilderInheritanceRecursiveGenerics", "FluentBuilderInheritanceRecursiveGenerics\FluentBuilderInheritanceRecursiveGenerics.csproj", "{E6235735-3831-4268-BC45-BFE2ED5AD279}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentBuilderInheritanceRecursiveGenerics", "FluentBuilderInheritanceRecursiveGenerics\FluentBuilderInheritanceRecursiveGenerics.csproj", "{E6235735-3831-4268-BC45-BFE2ED5AD279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{3AA14261-AECF-452A-AAEE-E85FD682CE09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{3AA14261-AECF-452A-AAEE-E85FD682CE09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetedBuilder", "FacetedBuilder\FacetedBuilder.csproj", "{3CEFAD23-CD60-4025-AC41-506FF53780F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacetedBuilder", "FacetedBuilder\FacetedBuilder.csproj", "{3CEFAD23-CD60-4025-AC41-506FF53780F2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoriesDesignPattern", "FactoriesDesignPattern", "{1F31F7AB-3E1B-4E0C-9184-C0167EFD2993}"
 EndProject
@@ -27,7 +27,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuilderDesignPattern", "Bui
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLIDDesignPrinciples", "SOLIDDesignPrinciples", "{4BD48B13-B265-48C0-86DA-EA0EE7978A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointExample", "PointExample\PointExample.csproj", "{324494C1-A5E7-4794-B1F8-97DE2347A762}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointExample", "PointExample\PointExample.csproj", "{324494C1-A5E7-4794-B1F8-97DE2347A762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncFactoryMethod", "AsyncFactoryMethod\AsyncFactoryMethod.csproj", "{143122EF-A77B-4755-A7EC-EF743618105B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{324494C1-A5E7-4794-B1F8-97DE2347A762}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{324494C1-A5E7-4794-B1F8-97DE2347A762}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{324494C1-A5E7-4794-B1F8-97DE2347A762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143122EF-A77B-4755-A7EC-EF743618105B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143122EF-A77B-4755-A7EC-EF743618105B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143122EF-A77B-4755-A7EC-EF743618105B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143122EF-A77B-4755-A7EC-EF743618105B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{3AA14261-AECF-452A-AAEE-E85FD682CE09} = {00D62058-328D-410A-AC8C-2232C6E42126}
 		{3CEFAD23-CD60-4025-AC41-506FF53780F2} = {00D62058-328D-410A-AC8C-2232C6E42126}
 		{324494C1-A5E7-4794-B1F8-97DE2347A762} = {1F31F7AB-3E1B-4E0C-9184-C0167EFD2993}
+		{143122EF-A77B-4755-A7EC-EF743618105B} = {1F31F7AB-3E1B-4E0C-9184-C0167EFD2993}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E1007D5E-9306-460A-B3D9-E474FDAB6B0A}
